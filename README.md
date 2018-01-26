@@ -8,9 +8,9 @@ Dieses Spiel wurde ~150+ Stunden in einem Zeitraum von 14 Wochen erstellt.</br>
 Das Projekt nutzt die PhysicsEngine Dyn4J, http://www.dyn4j.org .</br>
 
 # Erstellt mit
-NetBeans, https://netbeans.org/
-Java 8 JDK, https://java.com/
-Dyn4J, http://www.dyn4j.org/
+NetBeans, https://netbeans.org/ </br>
+Java 8 JDK, https://java.com/ </br>
+Dyn4J, http://www.dyn4j.org/ </br>
 
 # Author 
 2018 Simon Lixenfeld
