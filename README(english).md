@@ -8,7 +8,7 @@ This project was made over the course of 14 weeks with a total coding time of ~1
 I used the Physicsengine Dyn4J, http://www.dyn4j.org in my project. </br>
 
 # Running
-You can run the game by executing the JAR in /dist </br>
+You can run the game by executing the JAR in /spiel </br>
 or run the game through commandline by using "java -jar minigolf.jar" </br>.
 
 # Made With
