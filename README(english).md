@@ -1,20 +1,17 @@
-# 2DMiniGolf-Projekt
-2D Java Minigolf Netzwerk Spiel
+# 2DMiniGolf-Project
+2D Java Minigolf Network Game
 
-# Beschreibung
-Diese Minigolf Spiel ist die Endversion eines Projektes, welches ich entwickelt habe und bewertet wurde.</br>
-Das Ziel des Projektes was es, ein Client/Server Mehrspieler Spiel zu entwickeln.</br>
-Dieses Spiel wurde ~150+ Stunden in einem Zeitraum von 14 Wochen erstellt.</br>
-Das Projekt nutzt die PhysicsEngine Dyn4J, http://www.dyn4j.org .</br>
+# Description
+This minigolf game ist the final version of a project i developed. </br>
+The goal of the project was, to create a Client/Server multiplayer game. </br>
+This project was made over the course of 14 weeks with a total coding time of ~150+ hours. </br>
+I used the Physicsengine Dyn4J, http://www.dyn4j.org in my project. </br>
 
-# Ausführung
-Das Spiel startet sich über die Ausführbare JAR  in /dist, </br>
-oder über ein Kommandozeilenfenster mit dem Befehl "java -jar minigolf.jar" </br>
+# Running
+You can run the game by executing the JAR in /dist </br>
+or run the game through commandline by using "java -jar minigolf.jar" </br>.
 
-# Anleitung
--> Anleitung.md
-
-# Erstellt mit
+# Made With
 NetBeans, https://netbeans.org/ </br>
 Java 8 JDK, https://java.com/ </br>
 Dyn4J, http://www.dyn4j.org/ </br>
