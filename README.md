@@ -11,10 +11,13 @@ Das Projekt nutzt die PhysicsEngine Dyn4J, http://www.dyn4j.org .</br>
 Das Spiel kann mit öffnen der JAR Datei in /dist, </br>
 oder über eine Konsole mit dem Befehl "java -jar minigolf.jar" gestartet werden. </br>
 
+# Anleitung
+-> Anleitung.md
+
 # Erstellt mit
 NetBeans, https://netbeans.org/ </br>
 Java 8 JDK, https://java.com/ </br>
 Dyn4J, http://www.dyn4j.org/ </br>
 
 # Author 
-2018 Simon Lixenfeld
+©2018 Simon Lixenfeld
