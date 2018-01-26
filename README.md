@@ -8,7 +8,7 @@ Dieses Spiel wurde ~150+ Stunden in einem Zeitraum von 14 Wochen erstellt.</br>
 Das Projekt nutzt die PhysicsEngine Dyn4J, http://www.dyn4j.org .</br>
 
 # Ausführung
-Das Spiel startet sich über die Ausführbare JAR  in /dist, </br>
+Das Spiel startet sich über die Ausführbare JAR  in /spiel, </br>
 oder über ein Kommandozeilenfenster mit dem Befehl "java -jar minigolf.jar" </br>
 
 # Anleitung
