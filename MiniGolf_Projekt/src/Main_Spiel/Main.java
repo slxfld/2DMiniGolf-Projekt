@@ -573,7 +573,7 @@ public class Main implements ActionListener, MouseListener, KeyListener, MouseMo
                 update_network();
             }
 
-     // Ändern Hinzu Ziel  Darstellung    
+            // Ändern Hinzu Ziel  Darstellung    
             //Zeichnen von Ziel und Flagge
             g.setColor(Color.GRAY.brighter());
             g.fill(new Ellipse2D.Double(builder.goal.p_x - 0, builder.goal.p_y - 0, 0.8 * SCALE, 0.8 * SCALE));
