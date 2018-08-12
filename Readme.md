@@ -1,7 +1,7 @@
 ﻿# 2DMiniGolf-Projekt
 2D Java Minigolf Netzwerk Spiel
 
-![screenshot](https://github.com/slxfld/PongGame/blob/master/screenshots/title.png)
+![screenshot](https://github.com/slxfld/2DMiniGolf-Projekt/blob/master/screenshots/title.png)
 
 # Beschreibung
 Ein MiniGolf Spiel, welches über ein Netzwerk gespielt werden kann.
