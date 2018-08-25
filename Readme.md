@@ -18,7 +18,7 @@ Das Spiel startet sich über die ausführbare JAR  in /spiel, </br>
 Eine Anleitung befindet sich in Anleitung.md
 
 # Lizenz
-MIT License
+GPLv3
 
 # Erstellt mit
 NetBeans, https://netbeans.org/ </br>
