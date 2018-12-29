@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Main_Spiel;
 
 import static Main_Spiel.Main.SCALE;
@@ -16,10 +12,6 @@ import org.dyn4j.geometry.Rectangle;
 import org.dyn4j.geometry.Vector2;
 import org.dyn4j.samples.SimulationBody;
 
-/**
- *
- * @author SLZX
- */
 public class LevelBuilder {
 
     //Construction World
