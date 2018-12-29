@@ -1,4 +1,4 @@
-package Main_Spiel;
+﻿package Main_Spiel;
 
 import java.awt.Canvas;
 import java.awt.Color;
@@ -471,7 +471,7 @@ public class Main implements ActionListener, MouseListener, KeyListener, MouseMo
             g.setFont(new Font("Verdana", Font.BOLD, 21));
             g.drawString(Version, 80, -103);
 
-            g.setFont(new Font("Verdana", Font.TYPE1_FONT, 21));
+            g.setFont(new Font("Verdana", Font.TYPE1_FONT, 12));
 
             g.drawString("(C) 2017,2018 Simon Lixenfeld", -480, 380);
 
