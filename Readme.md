@@ -4,10 +4,9 @@
 ![screenshot](https://github.com/slxfld/2DMiniGolf-Projekt/blob/master/screenshots/title.png)
 
 # Beschreibung
-Ein MiniGolf Spiel, welches über ein Netzwerk gespielt werden kann.
-Diese Minigolf Spiel ist die Endversion meines Abschluss Projekts.</br>
-Das Ziel des Projektes war es, ein Client/Server Mehrspieler Spiel zu entwickeln.</br>
-Entwickelt wurde das Spiel in einem Zeitraum von 14 Wochen.</br>
+Ein Java MiniGolf Spiel, welches über ein Netzwerk gespielt werden kann.<br>
+Dieses Spiel ist die Endversion meines Abschlussprojekts.</br>
+Das Ziel des Projektes war es, ein Client/Server Multiplayer Spiel zu entwickeln.</br>
 
 Das Projekt nutzt die Physics Engine Dyn4J, http://www.dyn4j.org </br>
 
