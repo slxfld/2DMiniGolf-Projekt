@@ -13,9 +13,6 @@ Das Projekt nutzt die Physics Engine Dyn4J, http://www.dyn4j.org </br>
 # Ausführung
 Das Spiel startet sich über die ausführbare JAR  in /Spiel, </br>
 
-# Lizenz
-GPLv3
-
 # Erstellt mit
 NetBeans, https://netbeans.org/ </br>
 Java 8 JDK, https://java.com/ </br>
