@@ -19,4 +19,4 @@ Java 8 JDK, https://java.com/ </br>
 Dyn4J, http://www.dyn4j.org/ </br>
 
 # Author 
-**2017,2018 Simon Lixenfeld**
+*2017,2018 Simon Lixenfeld*
